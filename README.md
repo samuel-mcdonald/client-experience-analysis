@@ -23,7 +23,7 @@ needed, it opens in any browser:
   web page, with charts and plain-language explanations of every step.
 
 GitHub Pages is enabled, the live site is at
-`https://<samuel-mcdonald>.github.io/<client-experience-analysis>/`
+https://samuel-mcdonald.github.io/client-experience-analysis/
 
 ## What the analysis covers
 
