@@ -1,4 +1,4 @@
-# Participant & Staff Experience Analysis — Graduate Analytics Capstone
+# Participant & Staff Experience Analysis — Undergraduate Analytics Capstone
 
 A graduate Business Intelligence & Analytics capstone project completed for a real
 client: a national outdoor-recreation nonprofit. Working from the organization's
